@@ -7,21 +7,21 @@
 ## Resources
 **Read or watch:**
 
-* [Node JS getting started]()
-* [Process API doc]()
-* [Child process]()
-* [Express getting started]()
-* [Mocha documentation]()
-* [Nodemon documentation]()
+* [Node JS getting started](https://intranet.alxswe.com/rltoken/DsbbpVM05J3r6rd_2u8mPw)
+* [Process API doc](https://node.readthedocs.io/en/latest/api/process/)
+* [Child process](https://nodejs.org/api/child_process.html)
+* [Express getting started](https://expressjs.com/en/starter/installing.html)
+* [Mocha documentation](https://mochajs.org/)
+* [Nodemon documentation](https://github.com/remy/nodemon#nodemon)
 
 ## Learning Objectives
 
-At the end of this project, you are expected to be able to [explain to anyone](), **without the help of Google:**
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 * run javascript using NodeJS
 * use NodeJS modules
 * use specific Node JS module to read files
-* use process to access command line arguments and the environment
+* use `process` to access command line arguments and the environment
 * create a small HTTP server using Node JS
 * create a small HTTP server using Express JS
 * create advanced routes with Express JS
