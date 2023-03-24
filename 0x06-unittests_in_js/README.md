@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x06. Unittests in JS
 
 `UnitTests`   `Back-end`   `JavaScript`   `ES6`  `NodeJS`   `ExpressJS`  `Mocha`
@@ -512,3 +513,6 @@ bob@dylan:~$
 * You should be able to run the test suite using `npm test api.test.js`
 * Every test should pass without any warning
 * Your server should not display any error
+=======
+# Unittests in JS
+>>>>>>> 108a8498c043026b652cd207f8b60b69e9629319
